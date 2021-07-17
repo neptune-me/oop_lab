@@ -1,0 +1,52 @@
+[
+{
+  "directory": "D:/labs/oop_lab/lab6/build",
+  "command": "D:\\data\\mingw\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\lab8.dir\\main.cpp.obj -c D:\\labs\\oop_lab\\lab6\\main.cpp",
+  "file": "D:/labs/oop_lab/lab6/main.cpp"
+},
+{
+  "directory": "D:/labs/oop_lab/lab6/build",
+  "command": "D:\\data\\mingw\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\lab8.dir\\game\\component\\Board.cpp.obj -c D:\\labs\\oop_lab\\lab6\\game\\component\\Board.cpp",
+  "file": "D:/labs/oop_lab/lab6/game/component/Board.cpp"
+},
+{
+  "directory": "D:/labs/oop_lab/lab6/build",
+  "command": "D:\\data\\mingw\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\lab8.dir\\game\\component\\User.cpp.obj -c D:\\labs\\oop_lab\\lab6\\game\\component\\User.cpp",
+  "file": "D:/labs/oop_lab/lab6/game/component/User.cpp"
+},
+{
+  "directory": "D:/labs/oop_lab/lab6/build",
+  "command": "D:\\data\\mingw\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\lab8.dir\\factory\\Factory.cpp.obj -c D:\\labs\\oop_lab\\lab6\\factory\\Factory.cpp",
+  "file": "D:/labs/oop_lab/lab6/factory/Factory.cpp"
+},
+{
+  "directory": "D:/labs/oop_lab/lab6/build",
+  "command": "D:\\data\\mingw\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\lab8.dir\\game\\game.cpp.obj -c D:\\labs\\oop_lab\\lab6\\game\\game.cpp",
+  "file": "D:/labs/oop_lab/lab6/game/game.cpp"
+},
+{
+  "directory": "D:/labs/oop_lab/lab6/build",
+  "command": "D:\\data\\mingw\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\lab8.dir\\game\\SingleGame.cpp.obj -c D:\\labs\\oop_lab\\lab6\\game\\SingleGame.cpp",
+  "file": "D:/labs/oop_lab/lab6/game/SingleGame.cpp"
+},
+{
+  "directory": "D:/labs/oop_lab/lab6/build",
+  "command": "D:\\data\\mingw\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\lab8.dir\\game\\DoubleGame.cpp.obj -c D:\\labs\\oop_lab\\lab6\\game\\DoubleGame.cpp",
+  "file": "D:/labs/oop_lab/lab6/game/DoubleGame.cpp"
+},
+{
+  "directory": "D:/labs/oop_lab/lab6/build",
+  "command": "D:\\data\\mingw\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\lab8.dir\\game\\component\\log.cpp.obj -c D:\\labs\\oop_lab\\lab6\\game\\component\\log.cpp",
+  "file": "D:/labs/oop_lab/lab6/game/component/log.cpp"
+},
+{
+  "directory": "D:/labs/oop_lab/lab6/build",
+  "command": "D:\\data\\mingw\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\lab8.dir\\game\\action\\MoveAction.cpp.obj -c D:\\labs\\oop_lab\\lab6\\game\\action\\MoveAction.cpp",
+  "file": "D:/labs/oop_lab/lab6/game/action/MoveAction.cpp"
+},
+{
+  "directory": "D:/labs/oop_lab/lab6/build",
+  "command": "D:\\data\\mingw\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\lab8.dir\\game\\action\\ObtainBonusAction.cpp.obj -c D:\\labs\\oop_lab\\lab6\\game\\action\\ObtainBonusAction.cpp",
+  "file": "D:/labs/oop_lab/lab6/game/action/ObtainBonusAction.cpp"
+}
+]

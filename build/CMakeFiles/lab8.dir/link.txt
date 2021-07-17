@@ -1,0 +1,3 @@
+D:\data\cmake-3.19.7-win64-x64\bin\cmake.exe -E rm -f CMakeFiles\lab8.dir/objects.a
+D:\data\mingw\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\lab8.dir/objects.a @CMakeFiles\lab8.dir\objects1.rsp
+D:\data\mingw\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\lab8.dir/objects.a -Wl,--no-whole-archive -o lab8.exe -Wl,--out-implib,liblab8.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lab8.dir\linklibs.rsp
